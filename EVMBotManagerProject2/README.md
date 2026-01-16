@@ -19,9 +19,6 @@
 ###### Private Balance Mode:
 
 
-###### Daily Summary:
-
-
 ##### Prerequisites
 
 Before installing, ensure the following installed on the system:
