@@ -1,0 +1,18 @@
+{
+  "8164787411": {
+    "Main Wallet": {
+      "address": "0x742d35Cc6634C0532925a3b844Bc454e4438f44e",
+      "network": "ethereum"
+    }
+  },
+  "7602140730": {
+    "BSC": {
+      "address": "0x8403010dDA9eE616F053D5D84203eDDc3031722C",
+      "network": "bsc"
+    },
+    "ARB": {
+      "address": "0x2837c05D0eFf4E68Bb7bE792FD40512c4832701f",
+      "network": "arbitrum"
+    }
+  }
+}
